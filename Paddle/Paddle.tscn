@@ -59,7 +59,7 @@ position = Vector2( 50, 10 )
 texture = ExtResource( 3 )
 
 [node name="Eye1" type="Sprite" parent="."]
-position = Vector2( 23, -7 )
+position = Vector2( 23, 5 )
 texture = ExtResource( 5 )
 
 [node name="Pupil" type="Node2D" parent="Eye1"]
@@ -68,7 +68,7 @@ texture = ExtResource( 5 )
 texture = ExtResource( 6 )
 
 [node name="Eye2" type="Sprite" parent="."]
-position = Vector2( 73, -7 )
+position = Vector2( 73, 5 )
 texture = ExtResource( 5 )
 
 [node name="Pupil" type="Node2D" parent="Eye2"]
@@ -77,5 +77,5 @@ texture = ExtResource( 5 )
 texture = ExtResource( 6 )
 
 [node name="Mouth" type="Sprite" parent="."]
-position = Vector2( 49, 26 )
+position = Vector2( 47, 10 )
 texture = ExtResource( 7 )
