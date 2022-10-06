@@ -15,6 +15,12 @@ Built using Godot 3.5
 
 Face sprites created by the author at Piskel.com
 
+Face added to paddle, sprites created by Anna Stiening
+
+Shaders from Godot shaders 
+
+Ball trail 
+
 ## References
  * [Juice it or lose it — a talk by Martin Jonasson & Petri Purho](https://www.youtube.com/watch?v=Fy0aCDmgnxg)
  * [Puzzle Pack 2, provided by kenney.nl](https://kenney.nl/assets/puzzle-pack-2)
