@@ -1,5 +1,5 @@
 
-# Exercise-03d-Shaders
+# Project 03 Juicy-Brick-Breaker
 
 Exercise for MSCH-C220
 
